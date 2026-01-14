@@ -30,6 +30,7 @@ This project addresses the need for store-level visibility into seasonal sales b
 - Analyzed correlations between sales and external economic factors
 - Designed role-specific views for leadership and store managers
 
+
 ## Key Insights
 - Holiday weeks consistently drive significant sales spikes, with strong regional variation
 - External factors such as CPI, unemployment, and temperature show measurable influence on sales
