@@ -1,3 +1,7 @@
+## Live Dashboard
+🔗 View on Tableau Public: https://public.tableau.com/app/profile/bharati.kalambe/viz/HRAnalyticsDashoard_17684128508420/HRAnalyticsDashboards2?publish=yes
+
+
 # HR Analytics – Workforce & Attrition Insights
 
 ## Overview
