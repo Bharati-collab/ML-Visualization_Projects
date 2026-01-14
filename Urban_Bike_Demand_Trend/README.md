@@ -49,7 +49,7 @@ An interactive Tableau dashboard was built to explore ride behavior across time 
 🔗 **Live Interactive Dashboard (Tableau Public):**  
 https://public.tableau.com/app/profile/bharati.kalambe/viz/LondonBikesDashboard_17684319360600/Dashboard1?publish=yes
 
-![London Bike Dashboard – with Tooltip View](London_bike_tooltip.png)
+![London Bike Dashboard – ](London_bike_tooltip.png)
 
 ---
 
