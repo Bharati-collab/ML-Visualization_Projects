@@ -35,8 +35,7 @@ XGBoost	        1644.39
 ## 59% RMSE reduction over baseline, confirming strong predictive lift.
 
 ## Prediction Preview
-[!Dashboard](Energy_forecast.png)
-
+![Dashboard](Energy_forecast.png)
 
 ## Insight Generated: 
 
