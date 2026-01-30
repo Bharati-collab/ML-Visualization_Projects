@@ -15,16 +15,16 @@ This repository contains a curated set of **end-to-end analytics and machine lea
 📁 **[Energy Forecasting](./Energy_Forecasting)**  
 Time-series electricity demand forecasting using Naive baseline and XGBoost.
 
-📁 **[Sales Forecasting](./Sales_Forecasting)**  
+📁 **[Sales_Forecasting](./Sales_Forecasting)**  
 Predictive modeling and trend analysis for retail sales.
 
-📁 **[Fraud Monitoring](./Fraud_Monitoring)**  
+📁 **[Fraud_Monitoring](./Fraud_Monitoring)**  
 Analytical pattern detection and fraud monitoring insights.
 
-📁 **[HR Analytics](./HR_Analytics)**  
+📁 **[HR_Analytics](./HR_Analytics)**  
 Workforce analytics and employee attrition insights.
 
-📁 **[Urban Bike Demand Trend](./Urban_Bike_Demand_Trend)**  
+📁 **[Urban_Bike_Demand_Trend](./Urban_Bike_Demand_Trend)**  
 Urban mobility demand analysis and visualization.
 
 
@@ -39,6 +39,7 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, Time-Series Analysis, Data Visuali
 
 ## 🔗 Connect with Me
 LinkedIn: https://www.linkedin.com/in/bharatikalambe/
+
 
 
 
