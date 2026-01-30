@@ -28,7 +28,8 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, Time-Series Analysis, Data Visuali
 ---
 
 ## 🔗 Connect with Me
-LinkedIn: https://www.linkedin.com/in/bharati-kalambe-2729b134/
+LinkedIn: https://www.linkedin.com/in/bharatikalambe/
+
 
 
 
